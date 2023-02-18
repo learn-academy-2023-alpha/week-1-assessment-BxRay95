@@ -14,44 +14,46 @@ Researched answer:
 
 1. What is git? What is the difference between git and Github?
 
-Your answer:
+Your answer: Git is the backbone of github, anything you send or pull from github you have to use git to do.
 
-Researched answer:
+Researched answer: Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. 
 
 2. Which JavaScript operators will return a Boolean value?
 
-Your answer:
+Your answer: and, or, not, strictly equal
 
-Researched answer:
+Researched answer: and or not/ && !! ! ===
 
 3. What is an index? What is the difference between index and value?
 
-Your answer:
+Your answer: index is the position the given item is in, starts with 0
+ value is the worth of that item.
 
-Researched answer:
+Researched answer: “value” shows the current element of the array and it is required. “index” refers to the index of the current array element and is an optional parameter.
 
 4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
-Your answer:
+Your answer: strings are outputs of text or numbers where arrays are more like organized sections of values.
 
-Researched answer:
+Researched answer: The key difference between Array and String is that an Array is a data structure that holds a collection of elements having the same data types, while a String is a collection of characters.
+
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-Your answer:
+Your answer: driver and navigator. the driver is the one putting words on paper while the navigator is directing what goes on the paper. its important to make sure both are on the same page so someone isnt getting confused as to what you are doing.
 
-Researched answer:
+Researched answer: Pair programming is a software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: to my understanding HoF are more complex functions that can assigned to variables like arrays or strings, and passed through other functions. sounds confusing, i cant wait.
 
-2. Jest:
+2. Jest: jest is basically a javascript testing environment. ive heard its very finicky 
 
-3. Objects:
+3. Objects: standalone entity with properties and type. 
 
-4. Method:
+4. Method: shorter syntax defining of a function?
 
-5. Classes:
+5. Classes: template for creating objects, encapsulating data.
