@@ -16,13 +16,13 @@ Researched answer:
 
 Your answer: Git is the backbone of github, anything you send or pull from github you have to use git to do.
 
-Researched answer: Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. 
+Researched answer: git is essentially a version control method where you can track and control your files and the history of your code. Github is where all of your repositories are stored on the internet. 
 
 2. Which JavaScript operators will return a Boolean value?
 
 Your answer: and, or, not, strictly equal
 
-Researched answer: and or not/ && !! ! ===
+Researched answer: and or not/ && !! ! === true or false?
 
 3. What is an index? What is the difference between index and value?
 
@@ -42,7 +42,7 @@ Researched answer: The key difference between Array and String is that an Array 
 
 Your answer: driver and navigator. the driver is the one putting words on paper while the navigator is directing what goes on the paper. its important to make sure both are on the same page so someone isnt getting confused as to what you are doing.
 
-Researched answer: Pair programming is a software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
+Researched answer: 2 programmers working together at one workstation, the driver writes the code and the other person is directing. the 2 should switch regularly so they are both engaged and understanding whats happening.
 
 ## Looking Ahead: Terms for Next Week
 
